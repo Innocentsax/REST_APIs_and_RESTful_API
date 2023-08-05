@@ -14,6 +14,7 @@ REST APIs use stateless communication, meaning each request from the client to t
 REST APIs are widely used due to their simplicity, scalability, and ease of integration.
 RESTful API:
 
+## POSTMAN
 <img src="https://github.com/Innocentsax/REST_APIs_and_RESTful_API/blob/main/rest/Screenshot%202023-08-05%20at%202.48.50%20AM.png">
 
 + The term "RESTful" is used to describe APIs that adhere to the principles of REST.
