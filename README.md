@@ -23,7 +23,11 @@ It means the API follows the guidelines and best practices of REST, including us
 RESTful APIs are meant to be easy to understand, use, and interact with since they follow standardized conventions for communication.
 In summary, REST API is a generic term referring to any web service that follows the REST architectural principles. On the other hand, RESTful API specifically refers to a web service that strictly adheres to these principles, making it easy for developers to interact with the API and follow standardized communication patterns. RESTful APIs are a subset of REST APIs.
 
-
+git init
+git add .
+git commit -m "Add existing project files to Git"
+git remote add origin https://github.com/cameronmcnz/example-website.git
+git push -u -f origin master
 
 
 ## Author
