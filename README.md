@@ -1,7 +1,7 @@
 # REST_APIs_and_RESTful_API
 <img src="https://github.com/Innocentsax/REST_APIs_and_RESTful_API/blob/main/rest/Screenshot%202023-08-05%20at%202.46.46%20AM.png">
 
-REST APIs (Representational State Transfer APIs) and RESTful APIs are two related terms used to describe web services that adhere to the principles of REST architecture.
+REST APIs (Representational State Transfer APIs) and RESTful APIs are two related terms used to describe web services that adhere to the principles of REST architecture..
 
 REST API (Representational State Transfer API):
 
